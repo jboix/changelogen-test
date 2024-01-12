@@ -1,6 +1,18 @@
 # Changelog
 
 
+## v0.1.1
+
+[compare changes](https://github.com/jboix/changelogen-test/compare/v0.1.0...v0.1.1)
+
+### 🚀 Enhancements
+
+- Changed the readme ([52492ee](https://github.com/jboix/changelogen-test/commit/52492ee))
+
+### ❤️ Contributors
+
+- Josep Boix Requesens <jspboix@gmail.com>
+
 ## v0.1.0
 
 [compare changes](https://github.com/jboix/changelogen-test/compare/v0.0.2...v0.1.0)

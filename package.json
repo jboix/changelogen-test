@@ -1,7 +1,7 @@
 {
   "name": "@jboix/changelogen-test",
   "description": "Changelogen test",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "scripts": {
     "watch": "parcel watch",
     "build": "parcel build",
