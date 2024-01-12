@@ -1,0 +1,16 @@
+{
+  "name": "@jboix/changelogen-test",
+  "description": "Changelogen test",
+  "version": "0.0.1",
+  "scripts": {
+    "watch": "parcel watch",
+    "build": "parcel build",
+    "release:ci": "changelogen --release --push && changelogen gh release"
+  },
+  "source": "src/index.js",
+  "main": "dist/main.js",
+  "devDependencies": {
+    "changelogen": "^0.5.5",
+    "parcel": "^2.11.0"
+  }
+}
